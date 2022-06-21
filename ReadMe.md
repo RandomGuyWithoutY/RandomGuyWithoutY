@@ -11,6 +11,6 @@ If you would like to contact me for some questionable reason, take this mail adr
 
   - RandomGuyWithoutY@protonmail.com
 
-In addition to that I would like to mention that I am the founder of the BinaryIsBloat Inc. company as well as it's child organisation Illuminatisoft Inc.
+In addition to that I would like to mention that I am the founder of the BinaryIsBloat-community as well as it's child organisation Illuminatisoft Inc.
 
 With that all being said, go on and do whatever you want. Also, join the Illuminati please.
