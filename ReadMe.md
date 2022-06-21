@@ -9,7 +9,7 @@ Things I know stuff about include:<br/>
 
 If you would like to contact me for some questionable reason, take this mail adress of mine:
 
-  - randomguywithouty@protonmail.com
+  - RandomGuyWithoutY@protonmail.com
 
 In addition to that I would like to mention that I am the founder of the BinaryIsBloat Inc. company as well as it's child organisation Illuminatisoft Inc.
 
