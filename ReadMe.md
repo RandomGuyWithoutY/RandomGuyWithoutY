@@ -4,10 +4,10 @@ Hello, I'm RandomGuyWithoutY, I would consider myself to be a shitposter and als
 
 I would like to support anyone who needs help with their projects so that software can be made better collectively, which would be very nice to see in my opinion.
 Things I know stuff about include:<br/>
-  - Website developement in CSS and HTML, as well as PHP
-  - Basic Python and C++ knowledge
-  - Intuitive understandig of tools and software in many cases
-  - Common sense (probably my most useful abbility out of all of them alongside the tool knowledge)
+  - Website developement in CSS and HTML
+  - Basic C and C++ knowledge
+  - General development in Python
+  - Common sense (probably my most useful abbility)
 
 If you would like to contact me for some questionable reason, take this mail adress of mine:
 
