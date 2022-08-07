@@ -9,7 +9,7 @@ Things I know stuff about include:<br/>
   - General development in Python
   - Common sense (probably my most useful abbility)
 
-If you would like to contact me for some questionable reason, take this mail adress of mine:
+If you would like to contact me for some questionable reason, take this mail address of mine:
 
   - RandomGuyWithoutY@protonmail.com
 
